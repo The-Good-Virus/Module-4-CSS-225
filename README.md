@@ -1,0 +1,1 @@
+This assignment was a little easier to process after reviewing some notes from module 1. I remembered to check for errors that I could write down before recording my own observations which helped a lot. Even simplifying the algorithms and even finding print errors that I would usually find myself looking back on.
